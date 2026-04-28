@@ -1,13 +1,12 @@
-Test Case: Login functionality
+# Test Case — Login
 
-Preconditions:
-User has valid account
+## Preconditions
+User is on login page
 
-Steps:
-1. Open login page
-2. Enter valid email
-3. Enter password
-4. Click Login
+## Steps
+1. Enter valid email
+2. Enter valid password
+3. Click Login
 
-Expected result:
-User is logged in successfully
+## Expected result
+User is successfully redirected to dashboard
